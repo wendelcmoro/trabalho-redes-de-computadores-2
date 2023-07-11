@@ -1,0 +1,18 @@
+---------------------------------------
+Starting temperature server - Cairo, Egypt
+Temperature server started at: 24/04/2022, 18:26:42
+---------------------------------------
+I am server cairo. Running on 127.0.0.1:10003
+Connection Estabilished - 127.0.0.1:42880
+Data received: get_temperature
+Temperature got: 50.0 °C
+Temperature sent
+Connection Estabilished - 127.0.0.1:42882
+Data received: get_temperature
+Temperature got: 13.03 °C
+Temperature sent
+Connection Estabilished - 127.0.0.1:42884
+Data received: get_temperature
+Temperature got: 31.89 °C
+Temperature sent
+Exiting temperature server - Cairo, Egypt

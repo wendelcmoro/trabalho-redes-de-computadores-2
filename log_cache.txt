@@ -1,0 +1,155 @@
+-----------------------------------------------
+Cache server started at: 24/04/2022, 18:26:16
+-----------------------------------------------
+I am cache server. Running on 127.0.0.1:10000
+Connection Estabilished - 127.0.0.1:51432
+Actual cache table: {'resolute': ['', 0], 'chad': ['', 0], 'cairo': ['', 0]}
+[REQUEST] Temperature from chad requested
+Cache invalid, requesting new data
+[ERROR] temperature server offline
+Connection Estabilished - 127.0.0.1:51434
+Actual cache table: {'resolute': ['', 0], 'chad': ['error', 0], 'cairo': ['', 0]}
+[REQUEST] Temperature from resolute requested
+Cache invalid, requesting new data
+[ERROR] temperature server offline
+[REQUEST] Temperature from chad requested
+Cache invalid, requesting new data
+[ERROR] temperature server offline
+[REQUEST] Temperature from cairo requested
+Cache invalid, requesting new data
+[ERROR] temperature server offline
+Connection Estabilished - 127.0.0.1:51436
+Actual cache table: {'resolute': ['error', 0], 'chad': ['error', 0], 'cairo': ['error', 0]}
+[REQUEST] Temperature from cairo requested
+Cache invalid, requesting new data
+[ERROR] temperature server offline
+Connection Estabilished - 127.0.0.1:51440
+Actual cache table: {'resolute': ['error', 0], 'chad': ['error', 0], 'cairo': ['error', 0]}
+[REQUEST] Temperature from chad requested
+Cache invalid, requesting new data
+Data received: 43.54
+Cache updated for server chad
+Connection Estabilished - 127.0.0.1:51442
+Actual cache table: {'resolute': ['error', 0], 'chad': ['43.54', 1650835627], 'cairo': ['error', 0]}
+[REQUEST] Temperature from resolute requested
+Cache invalid, requesting new data
+[ERROR] temperature server offline
+[REQUEST] Temperature from chad requested
+Cache still valid for server chad
+[REQUEST] Temperature from cairo requested
+Cache invalid, requesting new data
+[ERROR] temperature server offline
+Connection Estabilished - 127.0.0.1:51444
+Actual cache table: {'resolute': ['error', 0], 'chad': ['43.54', 1650835627], 'cairo': ['error', 0]}
+[REQUEST] Temperature from cairo requested
+Cache invalid, requesting new data
+Data received: 50.0
+Cache updated for server cairo
+Connection Estabilished - 127.0.0.1:51446
+Actual cache table: {'resolute': ['error', 0], 'chad': ['43.54', 1650835627], 'cairo': ['50.0', 1650835636]}
+[REQUEST] Temperature from resolute requested
+Cache invalid, requesting new data
+[ERROR] temperature server offline
+[REQUEST] Temperature from chad requested
+Cache still valid for server chad
+[REQUEST] Temperature from cairo requested
+Cache still valid for server cairo
+Connection Estabilished - 127.0.0.1:51448
+Actual cache table: {'resolute': ['error', 0], 'chad': ['43.54', 1650835627], 'cairo': ['50.0', 1650835636]}
+[REQUEST] Temperature from resolute requested
+Cache invalid, requesting new data
+Data received: -29.98
+Cache updated for server resolute
+Connection Estabilished - 127.0.0.1:51450
+Actual cache table: {'resolute': ['-29.98', 1650835647], 'chad': ['43.54', 1650835627], 'cairo': ['50.0', 1650835636]}
+[REQUEST] Temperature from resolute requested
+Cache still valid for server resolute
+[REQUEST] Temperature from chad requested
+Cache still valid for server chad
+[REQUEST] Temperature from cairo requested
+Cache still valid for server cairo
+Connection Estabilished - 127.0.0.1:51452
+Actual cache table: {'resolute': ['-29.98', 1650835647], 'chad': ['43.54', 1650835627], 'cairo': ['50.0', 1650835636]}
+[REQUEST] Temperature from resolute requested
+Cache still valid for server resolute
+Connection Estabilished - 127.0.0.1:51454
+Actual cache table: {'resolute': ['-29.98', 1650835647], 'chad': ['43.54', 1650835627], 'cairo': ['50.0', 1650835636]}
+[REQUEST] Temperature from chad requested
+Cache still valid for server chad
+Connection Estabilished - 127.0.0.1:51456
+Actual cache table: {'resolute': ['-29.98', 1650835647], 'chad': ['43.54', 1650835627], 'cairo': ['50.0', 1650835636]}
+[REQUEST] Temperature from cairo requested
+Cache still valid for server cairo
+Connection Estabilished - 127.0.0.1:51458
+Actual cache table: {'resolute': ['-29.98', 1650835647], 'chad': ['43.54', 1650835627], 'cairo': ['50.0', 1650835636]}
+[REQUEST] Temperature from resolute requested
+Cache still valid for server resolute
+[REQUEST] Temperature from chad requested
+Cache still valid for server chad
+[REQUEST] Temperature from cairo requested
+Cache still valid for server cairo
+Connection Estabilished - 127.0.0.1:51460
+Actual cache table: {'resolute': ['-29.98', 1650835647], 'chad': ['43.54', 1650835627], 'cairo': ['50.0', 1650835636]}
+[REQUEST] Temperature from resolute requested
+Cache still valid for server resolute
+[REQUEST] Temperature from chad requested
+Cache invalid, requesting new data
+Data received: 40.77
+Cache updated for server chad
+[REQUEST] Temperature from cairo requested
+Cache still valid for server cairo
+Exiting cache server
+-----------------------------------------------
+Cache server started at: 24/04/2022, 18:28:22
+-----------------------------------------------
+I am cache server. Running on 127.0.0.1:10000
+Connection Estabilished - 127.0.0.1:51466
+Actual cache table: {'resolute': ['', 0], 'chad': ['', 0], 'cairo': ['', 0]}
+[REQUEST] Temperature from resolute requested
+Cache invalid, requesting new data
+Data received: -34.04
+Cache updated for server resolute
+[REQUEST] Temperature from chad requested
+Cache invalid, requesting new data
+Data received: 30.05
+Cache updated for server chad
+[REQUEST] Temperature from cairo requested
+Cache invalid, requesting new data
+Data received: 13.03
+Cache updated for server cairo
+Connection Estabilished - 127.0.0.1:51468
+Actual cache table: {'resolute': ['-34.04', 1650835872], 'chad': ['30.05', 1650835872], 'cairo': ['13.03', 1650835872]}
+[REQUEST] Temperature from resolute requested
+Cache still valid for server resolute
+[REQUEST] Temperature from chad requested
+Cache still valid for server chad
+[REQUEST] Temperature from cairo requested
+Cache still valid for server cairo
+Connection Estabilished - 127.0.0.1:51470
+Actual cache table: {'resolute': ['-34.04', 1650835872], 'chad': ['30.05', 1650835872], 'cairo': ['13.03', 1650835872]}
+[REQUEST] Temperature from chad requested
+Cache still valid for server chad
+Connection Estabilished - 127.0.0.1:51472
+Actual cache table: {'resolute': ['-34.04', 1650835872], 'chad': ['30.05', 1650835872], 'cairo': ['13.03', 1650835872]}
+[REQUEST] Temperature from chad requested
+Cache invalid, requesting new data
+[ERROR] temperature server offline
+Connection Estabilished - 127.0.0.1:51474
+Actual cache table: {'resolute': ['-34.04', 1650835872], 'chad': ['error', 0], 'cairo': ['13.03', 1650835872]}
+[REQUEST] Temperature from resolute requested
+Cache invalid, requesting new data
+Data received: -33.81
+Cache updated for server resolute
+[REQUEST] Temperature from chad requested
+Cache invalid, requesting new data
+Data received: 48.32
+Cache updated for server chad
+[REQUEST] Temperature from cairo requested
+Cache invalid, requesting new data
+Data received: 31.89
+Cache updated for server cairo
+Connection Estabilished - 127.0.0.1:51476
+Actual cache table: {'resolute': ['-33.81', 1650835993], 'chad': ['48.32', 1650835993], 'cairo': ['31.89', 1650835993]}
+[REQUEST] Temperature from chad requested
+Cache still valid for server chad
+Exiting cache server

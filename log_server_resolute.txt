@@ -1,0 +1,18 @@
+---------------------------------------
+Starting temperature server - Resolute, Canada
+Temperature server started at: 24/04/2022, 18:26:55
+---------------------------------------
+I am server resolute. Running on 127.0.0.1:10001
+Connection Estabilished - 127.0.0.1:41840
+Data received: get_temperature
+Temperature got: -29.98 °C
+Temperature sent
+Connection Estabilished - 127.0.0.1:41842
+Data received: get_temperature
+Temperature got: -34.04 °C
+Temperature sent
+Connection Estabilished - 127.0.0.1:41846
+Data received: get_temperature
+Temperature got: -33.81 °C
+Temperature sent
+Exiting temperature server - Resolute, Canada

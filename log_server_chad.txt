@@ -1,0 +1,28 @@
+---------------------------------------
+Starting temperature server - Chad, Chad
+Temperature server started at: 24/04/2022, 18:26:35
+---------------------------------------
+I am server chad. Running on 127.0.0.1:10002
+Connection Estabilished - 127.0.0.1:35578
+Data received: get_temperature
+Temperature got: 43.54 °C
+Temperature sent
+Connection Estabilished - 127.0.0.1:35580
+Data received: get_temperature
+Temperature got: 40.77 °C
+Temperature sent
+Connection Estabilished - 127.0.0.1:35582
+Data received: get_temperature
+Temperature got: 30.05 °C
+Temperature sent
+Exiting temperature server - Chad, Chad
+---------------------------------------
+Starting temperature server - Chad, Chad
+Temperature server started at: 24/04/2022, 18:32:35
+---------------------------------------
+I am server chad. Running on 127.0.0.1:10002
+Connection Estabilished - 127.0.0.1:35586
+Data received: get_temperature
+Temperature got: 48.32 °C
+Temperature sent
+Exiting temperature server - Chad, Chad

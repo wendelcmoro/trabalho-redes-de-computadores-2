@@ -1,0 +1,96 @@
+---------------------------------------
+Client started at: 24/04/2022, 18:26:02
+---------------------------------------
+Select city to get temperature:
+  resolute: Resolute, Canada
+  chad: Chad, Chad
+  cairo: Cairo, Egypt
+  all: all cities
+  help: show this message
+[INPUT] Get temperature from: chad
+[ERROR] cache server unavailable
+[INPUT] Get temperature from: all
+[ERROR] cache server unavailable
+[INPUT] Get temperature from: chad
+Cache server response: {"chad": "error"}
+Temperature in chad is unavailable
+[INPUT] Get temperature from: all
+Cache server response: {"resolute": "error", "chad": "error", "cairo": "error"}
+Temperature in resolute is unavailable
+Temperature in chad is unavailable
+Temperature in cairo is unavailable
+[INPUT] Get temperature from: cairo
+Cache server response: {"cairo": "error"}
+Temperature in cairo is unavailable
+[INPUT] Get temperature from: chad
+Cache server response: {"chad": "43.54"}
+Temperature in chad: 43.54 °C
+[INPUT] Get temperature from: all
+Cache server response: {"resolute": "error", "chad": "43.54", "cairo": "error"}
+Temperature in resolute is unavailable
+Temperature in chad: 43.54 °C
+Temperature in cairo is unavailable
+[INPUT] Get temperature from: cairo
+Cache server response: {"cairo": "50.0"}
+Temperature in cairo: 50.0 °C
+[INPUT] Get temperature from: all
+Cache server response: {"resolute": "error", "chad": "43.54", "cairo": "50.0"}
+Temperature in resolute is unavailable
+Temperature in chad: 43.54 °C
+Temperature in cairo: 50.0 °C
+[INPUT] Get temperature from: resolute
+Cache server response: {"resolute": "-29.98"}
+Temperature in resolute: -29.98 °C
+[INPUT] Get temperature from: all
+Cache server response: {"resolute": "-29.98", "chad": "43.54", "cairo": "50.0"}
+Temperature in resolute: -29.98 °C
+Temperature in chad: 43.54 °C
+Temperature in cairo: 50.0 °C
+[INPUT] Get temperature from: resolute
+Cache server response: {"resolute": "-29.98"}
+Temperature in resolute: -29.98 °C
+[INPUT] Get temperature from: chad
+Cache server response: {"chad": "43.54"}
+Temperature in chad: 43.54 °C
+[INPUT] Get temperature from: cairo
+Cache server response: {"cairo": "50.0"}
+Temperature in cairo: 50.0 °C
+[INPUT] Get temperature from: all
+Cache server response: {"resolute": "-29.98", "chad": "43.54", "cairo": "50.0"}
+Temperature in resolute: -29.98 °C
+Temperature in chad: 43.54 °C
+Temperature in cairo: 50.0 °C
+[INPUT] Get temperature from: all
+Cache server response: {"resolute": "-29.98", "chad": "40.77", "cairo": "50.0"}
+Temperature in resolute: -29.98 °C
+Temperature in chad: 40.77 °C
+Temperature in cairo: 50.0 °C
+[INPUT] Get temperature from: all 
+[ERROR] cache server unavailable
+[INPUT] Get temperature from: chad
+[ERROR] cache server unavailable
+[INPUT] Get temperature from: all
+Cache server response: {"resolute": "-34.04", "chad": "30.05", "cairo": "13.03"}
+Temperature in resolute: -34.04 °C
+Temperature in chad: 30.05 °C
+Temperature in cairo: 13.03 °C
+[INPUT] Get temperature from: all 
+Cache server response: {"resolute": "-34.04", "chad": "30.05", "cairo": "13.03"}
+Temperature in resolute: -34.04 °C
+Temperature in chad: 30.05 °C
+Temperature in cairo: 13.03 °C
+[INPUT] Get temperature from: chad
+Cache server response: {"chad": "30.05"}
+Temperature in chad: 30.05 °C
+[INPUT] Get temperature from: chad
+Cache server response: {"chad": "error"}
+Temperature in chad is unavailable
+[INPUT] Get temperature from: all
+Cache server response: {"resolute": "-33.81", "chad": "48.32", "cairo": "31.89"}
+Temperature in resolute: -33.81 °C
+Temperature in chad: 48.32 °C
+Temperature in cairo: 31.89 °C
+[INPUT] Get temperature from: chad
+Cache server response: {"chad": "48.32"}
+Temperature in chad: 48.32 °C
+Exiting client
